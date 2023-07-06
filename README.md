@@ -18,7 +18,6 @@
 <a href="https://github.com/DEADLY-X-BOTS/CRYPTICxMUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-darkred?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-darkred?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=darkred&label=pyrogram&logo=python&logoColor=darkred&style=for-the-badge" /></a>
-<a href="https://github.com/DEADLY-X-BOTS/CRYPTICxMUSIC/commits"> <img src="https://img.shields.io/github/last-commit/DEADLY-X-BOTS/CRYPTICxMUSIC?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -58,7 +57,7 @@
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
 `git clone https://github.com/DEADLY-X-BOTS/CRYPTICxMUSIC && cd CRYPTICxMUSIC`
-- ᴇɴᴛᴇʀ ɪɴᴛᴏ ᴛʜᴇ ᴄʟᴏɴᴇᴅ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ : `cd (jese AAROHIxMUSIC)` jo name rakhte h
+- ᴇɴᴛᴇʀ ɪɴᴛᴏ ᴛʜᴇ ᴄʟᴏɴᴇᴅ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ : `cd (jese CRYPTICxMUSIC)` jo name rakhte h
 - ʏᴏᴜ'ᴠᴇ ᴛᴏ ʙᴀsʜ ᴛʜᴇ sᴇᴛᴜᴘ ғɪʟᴇ ʙʏ : `bash setup` (ɪᴛ'ʟʟ ᴀsᴋ ʏᴏᴜ ᴛᴏ ғɪʟʟ ᴛʜᴇ ᴇɴᴠ ᴛʜᴇʀᴇ)
 - Install tmux to keep running your bot when you close the terminal by :
 `sudo apt install tmux && tmux`
