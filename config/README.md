@@ -1,10 +1,10 @@
 <h2 align="center">
-  「 ᴀᴀʀᴜ ᴍᴜsɪᴄ ᴄᴏɴғɪɢ 」
+  「 ᶜʳʸᵖᵗⁱᶜ ˢᵖⁱʳⁱᵗ ♡ ᴍᴜsɪᴄ ᴄᴏɴғɪɢ 」
 </h2>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><a href="https://t.me/HONEY_SINGH_121"><img src="https://te.legra.ph/file/8d4d7d5dc2e7cf675d80c.jpg"></a></p>
+<p align="center"><a href="https://t.me/HONEY_SINGH_121"><img src="https://graph.org/file/d4249d0a2d23326ef7f60.jpg"></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -108,8 +108,8 @@ Config vars are basically the variables which configure or modify bot to functio
     ─「 ❣️ɪᴍᴀɢᴇ/ᴛʜᴜᴍʙɴᴀɪʟ ᴠᴀʀs❣️ 」─
 </h3>
 
-- You can change images which are used in Aarohi Music Bot.
-- You can generate telegaph links from [@Alone_Dil_bot](http://t.me/Alone_Dil_bot) and use it here.
+- You can change images which are used in 𝘾𝙍𝙔𝙋𝙏𝙄𝘾 ✘ 𝙈𝙐𝙎𝙄𝘾 Bot.
+- You can generate telegaph links from [TELEGRAPH BOT](http://t.me/VTELEGRAPHBOT) and use it here.
 
 1. `START_IMG_URL` : Image which comes on /start command in private messages of bot.
 2. `PING_IMG_URL` : Image which comes on /ping command of bot.
