@@ -67,7 +67,7 @@ async def init():
     except:
         pass
     await Aarohi.decorators()
-    LOGGER("AarohiX").info("Aarohi X Music")
+    LOGGER("AarohiX").info("𝘾𝙍𝙔𝙋𝙏𝙄𝘾 ✘ 𝙈𝙐𝙎𝙄𝘾")
     await idle()
 
 
